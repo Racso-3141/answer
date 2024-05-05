@@ -1,4 +1,4 @@
-def q2(s):
+def q1(s):
     stk = []
     res = [' ' for _ in range(len(s))]
     for i, c in enumerate(s):
